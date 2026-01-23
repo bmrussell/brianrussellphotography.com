@@ -1,0 +1,8 @@
+baseURL = 'https://brianrussellphotography.com/'
+languageCode = 'en-gb'
+title = 'Brian Russell Photography'
+
+
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
