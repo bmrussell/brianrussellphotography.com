@@ -7,6 +7,9 @@ https://gohugo.io/host-and-deploy/host-on-github-pages/
 
 https://www.youtube.com/watch?v=MX4yy1dTVYg
 
+### ORIGINAL
+file:///H:/Adobe/portfolio/brianrussellphotography.com/abstract-1
+
 ## DEVELOPMENT
 
 **Run Server**

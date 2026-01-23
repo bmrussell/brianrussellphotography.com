@@ -6,3 +6,7 @@ title = 'Brian Russell Photography'
 [module]
   [[module.imports]]
     path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
