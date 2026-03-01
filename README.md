@@ -4,7 +4,7 @@
 * [Christian Lempa Hugo intro](https://www.youtube.com/watch?v=MX4yy1dTVYg)
 * [Hugo GitHub pages guide](https://gohugo.io/host-and-deploy/host-on-github-pages/)
 * [Custom domain guide](https://www.geeksforgeeks.org/git/publish-websites-on-github-pages-with-a-custom-domain/)
-* [Local Archive](file:///H:/Adobe/portfolio/brianrussellphotography.com/)
+* [Local Archive](file:///H:\Adobe\portfolio\brianrussellphotography.com\)
 
 
 ## DEVELOPMENT
