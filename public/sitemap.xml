@@ -8,7 +8,13 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/dad/</loc>
+  </url><url>
     <loc>http://localhost:1313/food/</loc>
+  </url><url>
+    <loc>http://localhost:1313/landscape/</loc>
+  </url><url>
+    <loc>http://localhost:1313/monochrome/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
