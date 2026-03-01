@@ -35,3 +35,18 @@ Name of `www` and target of `bmrussell.github.io.` (NB: period at the end)
 
 3. CNAME File
 File named `CNAME` containing the domain name should be in the repository root.
+
+## ADDING IMAGES
+### Adding an album
+1. Create a folder under `content\newalbum`
+2. Add the photos
+3. Add an index file as follows:
+```yaml
+---
+title: New Album Titile
+resources:
+  - src: name of cover photo.jpg
+    params:
+      cover: true
+---
+```
