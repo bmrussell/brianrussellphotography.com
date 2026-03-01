@@ -17,6 +17,16 @@
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
+      <title>Dad&#39;s Navy Photos</title>
+      <link>http://localhost:1313/dad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dad/</guid>
+        <media:content url="http://localhost:1313/dad/Photo-_20190728_0001_hu_df8cf966a4b27c76.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/dad/Photo-_20190728_0001_hu_df8cf966a4b27c76.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Food</title>
       <link>http://localhost:1313/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -24,6 +34,26 @@
         <media:content url="http://localhost:1313/food/toast_hu_8d6a7aabf850eafa.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/food/toast_hu_8d6a7aabf850eafa.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Landscape</title>
+      <link>http://localhost:1313/landscape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/landscape/</guid>
+        <media:content url="http://localhost:1313/landscape/whitby_hu_32b1e4345a938aef.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/landscape/whitby_hu_32b1e4345a938aef.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Monochrome</title>
+      <link>http://localhost:1313/monochrome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/monochrome/</guid>
+        <media:content url="http://localhost:1313/monochrome/flowers_hu_69be26c122d89d73.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/monochrome/flowers_hu_69be26c122d89d73.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>
