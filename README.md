@@ -5,6 +5,7 @@
 * [Hugo GitHub pages guide](https://gohugo.io/host-and-deploy/host-on-github-pages/)
 * [Custom domain guide](https://www.geeksforgeeks.org/git/publish-websites-on-github-pages-with-a-custom-domain/)
 * [Local Archive](file:///H:\Adobe\portfolio\brianrussellphotography.com\)
+* [Nico Kaiser's theme](https://github.com/nicokaiser/hugo-theme-gallery)
 
 
 ## DEVELOPMENT
@@ -49,4 +50,8 @@ resources:
     params:
       cover: true
 ---
+```
+4. Set image captions like
+```powershell
+exiftool -overwrite_original -ImageDescription="Westonbirt Carpet of Leaves" .\westonbirtcarpet.jpg
 ```
