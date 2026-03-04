@@ -1,5 +1,5 @@
 ---
-description: Occaisional Photographs, by me.
+description: Occasional Photographs, by me.
 #lastmod: 2023-07-05
 title: Brian Russell Photography
 resources:
